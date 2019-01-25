@@ -57,7 +57,7 @@ data
   s.default_subspec = 'StaticCocoaFramework'
   s.source = {
     http: "https://github.com/KomarovEV/test/blob/master/RxDataSources-3.1.0-SCF42.zip",
-    sha256: 'bde0c9deb1c3b3ad79ef3ff25c0b6ddc4e80653465744599bc6c0f9b4a419f83'
+    sha256: 'bebc7f62ea757f777abf6b65ce772555d832f89876200605c7326d0b1622920f'
   }
 
   s.source_files = nil
