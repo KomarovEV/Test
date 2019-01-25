@@ -43,7 +43,7 @@ Pod::Spec.new do |s|
   s.default_subspec = 'StaticCocoaFramework'
   s.source = {
     http: 'https://github.com/KomarovEV/test/blob/master/RxCocoa-4.4.0-SCF42.zip',
-    sha256: '0f8092af86fcb8cf9e4ef97f78fbb227de89dad4be3d33e9a2396c5a7b4cfd9b'
+    sha256: 'b1378afbf3114700cb5ae24176a5f73ae0398db5a812b835f07d5b7d0af8e0dc'
   }
 
   s.source_files = nil
